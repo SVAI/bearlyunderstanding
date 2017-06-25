@@ -1,4 +1,5 @@
-# bearlyunderstanding
+# ML based Prediction of Immunogenic Neoantigens for immunotherapy
+--- From *bearlyunderstanding*
 
 This project was started at the AI Genomics Hackathon on June 23-25, 2017, hosted by Silicon Valley Artificial Intelligence in San Francisco. 
 
