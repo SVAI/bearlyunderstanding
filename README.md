@@ -18,3 +18,11 @@ The project integrates diverse biological data sources include whole genome sequ
 ![Alt text](https://www.statnews.com/wp-content/uploads/2016/03/TumorAntigens_mcgranahan4HR-1024x576.jpg "T cell targets tumor tissue by recognizing neoantigens")
 
 T cell targets tumor tissue by recognizing neoantigens
+
+# Side Project: Topological Features for Binding Affinity Predictions
+
+Recent advances in computational topology have resulted in applications in sensor networks, neuroscience, archaeology, and cancer biology among numerous other fields. Such methods usually arise by considering a collection of data points as a finite sampling of some manifold whose topology is of interest. Understanding the topological structure of data can yield insights into previously difficult problems and allows for a variety of new approaches for data analysis and classification.
+
+[in progress]
+
+[in construction]
