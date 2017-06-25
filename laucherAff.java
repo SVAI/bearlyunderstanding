@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.net.URISyntaxException;
 
 /**
- * Created by wwang on 10/23/16.
+ * Created by wwang.
  */
 public class laucherAff {
     static public void main(String[] args) throws URISyntaxException {
