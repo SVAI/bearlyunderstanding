@@ -11,12 +11,9 @@ The immune system is an incredibly complex and robust orchestra of molecules, ce
 
 When a tumor grows, this natural process is not working successfully. Immunotherapy comes in by attempting to enhance the natural process at some point along the signaling pathway. One focal point for immunotherapy is the binding of the cut-up protein fragments with the HLA proteins because that is the most chemically selective step along the pathway. In this project, we identify the most viable candidate epitopes for Onno's NF2 based on existing epitope-HLA binding affinity data and structural data of his HLA protein.
 
-# Step 1: Identifying all epitope candidates
+# Identifying all epitope candidates
 The project integrates diverse biological data sources include whole genome sequencing data (tumor-normal) and multiple 3rd party software include RTGtools, snpEff, netchop3.1 and netMHCpan3.0 to predict the potential MiHAs by comparing the variants between Onno's tumor and normal tissue. It simulates the antigen processing and presenting on tumor cell surface via restricted HLA molecules.
 
-# Step 2: Rank epitope candidates based on HLA protein
-
-[future work]
 
 ![Alt text](https://www.statnews.com/wp-content/uploads/2016/03/TumorAntigens_mcgranahan4HR-1024x576.jpg "T cell targets tumor tissue by recognizing neoantigens")
 
@@ -32,4 +29,3 @@ Given a point cloud of data in some metric space, we can construct a higher dime
 ![Alt text](http://www.stat.cmu.edu/topstat/images/Clu_z60.jpg "Topological data analysis for use in characterizing cosmic filaments")
 Topological data analysis for use in characterizing cosmic filaments.
 
-[under construction]
