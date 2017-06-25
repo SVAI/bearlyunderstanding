@@ -23,6 +23,8 @@ T cell targets tumor tissue by recognizing neoantigens
 
 Recent advances in computational topology have resulted in applications in sensor networks, neuroscience, archaeology, and cancer biology among numerous other fields. Such methods usually arise by considering a collection of data points as a finite sampling of some manifold whose topology is of interest. Understanding the topological structure of data can yield insights into previously difficult problems and allows for a variety of new approaches for data analysis and classification.
 
-![Alt text](http://www.stat.cmu.edu/topstat/images/Clu_z60.jpg "Topological data analysis for use in characterizing cosmic filaments.")
+Given a point cloud of data in some metric space, we can construct a higher dimensional generalization of a graph called a simplicial complex. A simplicial complex is formed by k-dimensional convex polytopes (for low dimensions, we already know of points, lines, faces, and tetrahedrons). 
+
+![Alt text](http://www.stat.cmu.edu/topstat/images/Clu_z60.jpg "Topological data analysis for use in characterizing cosmic filaments")
 
 [in construction]
