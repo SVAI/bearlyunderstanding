@@ -13,6 +13,7 @@ When a tumor grows, this natural process is not working successfully. Immunother
 The project integrates diverse biological data sources include whole genome sequencing data (tumor-normal) and multiple 3rd party software include RTGtools, snpEff, netchop3.1 and netMHCpan3.0 to predict the potential MiHAs by comparing the variants between Onno's tumor and normal tissue. It simulates the antigen processing and presenting on tumor cell surface via restricted HLA molecules.
 
 # Step 2: Rank epitope candidates based on HLA protein
+[ in progress ]
 
 ![Alt text](https://www.statnews.com/wp-content/uploads/2016/03/TumorAntigens_mcgranahan4HR-1024x576.jpg "T cell targets tumor tissue by recognizing neoantigens")
 
