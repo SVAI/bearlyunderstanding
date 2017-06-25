@@ -9,7 +9,7 @@ The immune system is an incredibly complex and robust orchestra of molecules, ce
 When a tumor grows, this natural process is not working successfully. Immunotherapy comes in by attempting to enhance the natural process at some point along the signaling pathway. One focal point for immunotherapy is the binding of the cut-up protein fragments with the HLA proteins because that is the most chemically selective step along the pathway. In this project, we identify the most viable candidate epitopes for Onno's NF2 based on existing epitope-HLA binding affinity data and structural data of his HLA protein.
 
 # Step 1: Identifying all epitope candidates
-The program integrates diverse biological data sources include whole genome sequencing data (tumor-normal) and multiple 3rd party software include RTGtools (ref), snpEff (ref), netchop3.1 and netMHCpan3.0 to predict the potential MiHAs by comparing the variants between Onno's tumor and normal tissue. It simulates the antigen processing and presenting on tumor cell surface via restricted HLA molecules.
+The project integrates diverse biological data sources include whole genome sequencing data (tumor-normal) and multiple 3rd party software include RTGtools, snpEff, netchop3.1 and netMHCpan3.0 to predict the potential MiHAs by comparing the variants between Onno's tumor and normal tissue. It simulates the antigen processing and presenting on tumor cell surface via restricted HLA molecules.
 
 # Step 2: Rank epitope candidates based on HLA protein
 
