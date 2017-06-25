@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.net.URISyntaxException;
 
 /**
- * Created by wwang on 10/19/16.
+ * Created by wwang.
  */
 public class launcherChop {
 
