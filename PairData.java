@@ -1,7 +1,7 @@
 package clevage;
 
 /**
- * Created by wwang on 10/16/16.
+ * Created by wwang.
  */
 public class PairData {
     String id;
