@@ -13,4 +13,4 @@ When a tumor grows, this natural process is not working successfully. Immunother
 
 # Step 2: Rank epitope candidates based on HLA protein
 
-The goal of our project is to identify neoantigen candidates for immunotherapy of Onno's NF2 condition. To do this, we use a combination of existing genomics tools and our own neural network to identify the most promising HLA-restricted antigen. 
+![Alt text](https://www.statnews.com/wp-content/uploads/2016/03/TumorAntigens_mcgranahan4HR-1024x576.jpg "T cell targets tumor tissue by recognizing neoantigens")
