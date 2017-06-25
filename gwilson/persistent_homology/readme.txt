@@ -1,1 +1,1 @@
-Relies on Javaplex package for Matlab.
+Relies on Javaplex package and Persistence Landscape Toolbox for Matlab.
