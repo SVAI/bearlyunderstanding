@@ -29,3 +29,4 @@ Given a point cloud of data in some metric space, we can construct a higher dime
 ![Alt text](http://www.stat.cmu.edu/topstat/images/Clu_z60.jpg "Topological data analysis for use in characterizing cosmic filaments")
 Topological data analysis for use in characterizing cosmic filaments.
 
+Specifically, we used a tool called persistent homology to study X-ray crystallography structures of HLA genes, using a resulting distance measure as input to a feedforward ANN for binding affinity predictions. .PDB files were read in via BioPython, alpha carbon positions extracted, and distance matrices constructed. The resulting data can be used to study the homology of the space (non-contractible k-dimensional cycles).
